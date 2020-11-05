@@ -8,3 +8,10 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+
+### eclipse ###
+.buildpath
+.project
+.settings/
+### eclipse ###
